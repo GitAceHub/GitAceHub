@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-<!--
-**GitAceHub/GitAceHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🔭 I’m currently working on PowerShell.
+🌱 I’m currently learning Terraform.
+💬 Ask me about Microsoft Azure
+📫 How to reach me: Contact me on LinkedIn
 
-Here are some ideas to get you started:
+## Languages and Tools:
+English
+German
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VSCode
+PowerShell ISE :D
+
+
+## Let's Connect!
+Your LinkedIn
