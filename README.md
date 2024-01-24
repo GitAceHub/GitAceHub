@@ -7,10 +7,10 @@
 📫 How to reach me: Contact me on LinkedIn
 
 ## Languages and Tools:
-English
+English,
 German
 
-VSCode
+VSCode,
 PowerShell ISE :D
 
 
